@@ -1,11 +1,11 @@
 # Pcb Components Detection
 
-#Version 1
-In version 1, I am able to detect ICs from pcb
+# Version 1
+### In version 1, I am able to detect ICs from pcb
 
 
-#Version 2
-In version 2, I am implementing yolov5 algorithm on a dataset having tiny objects which are divided into 5 classes as follows
+# Version 2
+### In version 2, I am implementing yolov5 algorithm on a dataset having tiny objects which are divided into 5 classes as follows
 'boat'
 'car'
 'dock'
